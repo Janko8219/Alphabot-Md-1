@@ -68,9 +68,9 @@ global.author = 'Created By Jo-jo ' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.push_kontak_delay = 5000 //5 detik, 1000 = 1 detik
 //type menu for menu
-global.typemenu = 'gif' //
+global.typemenu = 'document' //
 //type menu for downloadmenu, animemenu, etc
-global.typemenu2 = 'image' //
+global.typemenu2 = 'document' //
 global.multiplier = 69
 global.limitawal = {
    premium: "Infinity", //unlimited
