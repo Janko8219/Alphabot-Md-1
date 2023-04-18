@@ -24,7 +24,7 @@ global.sewabotnya = `
 edit sewabot di file settings.js line 24
 `
 // setting 
-global.firtsChat = true //send firts message to new user
+global.firtsChat = false //send firts message to new user
 global.autoread = true // auto read message
 global.antidelete = false // anti delete
 global.antiviewonce = true // anti view once
@@ -32,43 +32,43 @@ global.autobio = false //auto ganti bio
 global.anticall = true //anti call, jika true maka org yg nelpon bot auto di blokir
 global.userRegister = false
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
-global.autolevelup = true
-global.autowelcome = true //auto welcome msg all group
-global.autogoodbye = true //auto goodbye msg all group
+global.autolevelup = false
+global.autowelcome = false //auto welcome msg all group
+global.autogoodbye = false //auto goodbye msg all group
 global.groupOnly = false //bot hanya bisa di gunakan dalam grup jika true
 
 //language
 //Available in indonesia , english & spanyol 
 //You can request others language 
-global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
+global.language = english //change indonesia to english if you don't understand the language used by the bot
 //global.language = english // use this for English language
 //global.language = spanyol // use this for Spanyol language
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
-global.region = "Indonesia" //bebas
-global.timezone = 'Asia/Jakarta' //  timezone wib
+global.botname = "𝗝𝗢-𝗝0 𝗕𝗢𝗧" //namabot kalian
+global.ownername = "ᴹᴿ᭄ 𝐽𝛩-𝐽0" //nama kalian
+global.myweb = "heyy" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/" //bebas asal jan hapus
+global.myweb2 = "" //bebas
+global.email = "" //bebas
+global.region = "India" //bebas
+global.timezone = 'Asia/Kolkata' //  timezone wib
 global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "62821931157232"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+"+ownernomer //nmr wa kalian
+global.premium = ['918593074023'] //premium user
+global.owner = ["918593074023", "62821931157232"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "918593074023" // nomor wa kalian
+global.ownernomerr = "918593074023"+ownernomer //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© ' + botname //sticker wm ubah
-global.author = 'Created By ' + ownername //sticker wm ganti nama kalian
+global.packname = '© JoJo ' + botname //sticker wm ubah
+global.author = 'Created By Jo-jo ' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.push_kontak_delay = 5000 //5 detik, 1000 = 1 detik
 //type menu for menu
-global.typemenu = 'templateImage' //
+global.typemenu = 'templateGif' //
 //type menu for downloadmenu, animemenu, etc
 global.typemenu2 = 'image' //
 global.multiplier = 69
