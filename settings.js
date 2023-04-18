@@ -58,7 +58,7 @@ global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soaln
 global.premium = ['918593074023'] //premium user
 global.owner = ["918593074023", "62821931157232"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "918593074023" // nomor wa kalian
-global.ownernomerr = "918593074023"+ownernomer //nmr wa kalian
+global.ownernomerr = "+"+ownernomer //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
@@ -68,7 +68,7 @@ global.author = 'Created By Jo-jo ' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.push_kontak_delay = 5000 //5 detik, 1000 = 1 detik
 //type menu for menu
-global.typemenu = 'templateDocument' //
+global.typemenu = 'gif' //
 //type menu for downloadmenu, animemenu, etc
 global.typemenu2 = 'image' //
 global.multiplier = 69
